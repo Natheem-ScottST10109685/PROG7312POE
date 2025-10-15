@@ -1,0 +1,10 @@
+C:\Users\nathe\OneDrive\Desktop\3rd Year Content\3rd year content\Semester 2\PROG7314\ST10109685Prog7312POE\ST10109685Prog7312POE\bin\Debug\ST10109685Prog7312POE.exe.config
+C:\Users\nathe\OneDrive\Desktop\3rd Year Content\3rd year content\Semester 2\PROG7314\ST10109685Prog7312POE\ST10109685Prog7312POE\bin\Debug\ST10109685Prog7312POE.exe
+C:\Users\nathe\OneDrive\Desktop\3rd Year Content\3rd year content\Semester 2\PROG7314\ST10109685Prog7312POE\ST10109685Prog7312POE\bin\Debug\ST10109685Prog7312POE.pdb
+C:\Users\nathe\OneDrive\Desktop\3rd Year Content\3rd year content\Semester 2\PROG7314\ST10109685Prog7312POE\ST10109685Prog7312POE\obj\Debug\ST10109685Prog7312POE.csproj.AssemblyReference.cache
+C:\Users\nathe\OneDrive\Desktop\3rd Year Content\3rd year content\Semester 2\PROG7314\ST10109685Prog7312POE\ST10109685Prog7312POE\obj\Debug\ST10109685Prog7312POE.Properties.Resources.resources
+C:\Users\nathe\OneDrive\Desktop\3rd Year Content\3rd year content\Semester 2\PROG7314\ST10109685Prog7312POE\ST10109685Prog7312POE\obj\Debug\ST10109685Prog7312POE.csproj.GenerateResource.cache
+C:\Users\nathe\OneDrive\Desktop\3rd Year Content\3rd year content\Semester 2\PROG7314\ST10109685Prog7312POE\ST10109685Prog7312POE\obj\Debug\ST10109685Prog7312POE.csproj.CoreCompileInputs.cache
+C:\Users\nathe\OneDrive\Desktop\3rd Year Content\3rd year content\Semester 2\PROG7314\ST10109685Prog7312POE\ST10109685Prog7312POE\obj\Debug\ST10109685Prog7312POE.exe
+C:\Users\nathe\OneDrive\Desktop\3rd Year Content\3rd year content\Semester 2\PROG7314\ST10109685Prog7312POE\ST10109685Prog7312POE\obj\Debug\ST10109685Prog7312POE.pdb
+C:\Users\nathe\OneDrive\Desktop\3rd Year Content\3rd year content\Semester 2\PROG7314\ST10109685Prog7312POE\ST10109685Prog7312POE\obj\Debug\ST10109685Prog7312POE.exe.config

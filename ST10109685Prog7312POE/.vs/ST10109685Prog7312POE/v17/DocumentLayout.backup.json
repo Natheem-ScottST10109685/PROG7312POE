@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|c:\\users\\nathe\\onedrive\\desktop\\3rd year content\\3rd year content\\semester 2\\prog7314\\st10109685prog7312poe\\st10109685prog7312poe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|solutionrelative:st10109685prog7312poe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|c:\\users\\nathe\\onedrive\\desktop\\3rd year content\\3rd year content\\semester 2\\prog7314\\st10109685prog7312poe\\st10109685prog7312poe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|solutionrelative:st10109685prog7312poe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|c:\\users\\nathe\\onedrive\\desktop\\3rd year content\\3rd year content\\semester 2\\prog7314\\st10109685prog7312poe\\st10109685prog7312poe\\localeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|solutionrelative:st10109685prog7312poe\\localeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|c:\\users\\nathe\\onedrive\\desktop\\3rd year content\\3rd year content\\semester 2\\prog7314\\st10109685prog7312poe\\st10109685prog7312poe\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|solutionrelative:st10109685prog7312poe\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|c:\\users\\nathe\\onedrive\\desktop\\3rd year content\\3rd year content\\semester 2\\prog7314\\st10109685prog7312poe\\st10109685prog7312poe\\localeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|solutionrelative:st10109685prog7312poe\\localeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|c:\\users\\nathe\\onedrive\\desktop\\3rd year content\\3rd year content\\semester 2\\prog7314\\st10109685prog7312poe\\st10109685prog7312poe\\localeventsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|solutionrelative:st10109685prog7312poe\\localeventsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|c:\\users\\nathe\\onedrive\\desktop\\3rd year content\\3rd year content\\semester 2\\prog7314\\st10109685prog7312poe\\st10109685prog7312poe\\localevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|solutionrelative:st10109685prog7312poe\\localevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|c:\\users\\nathe\\onedrive\\desktop\\3rd year content\\3rd year content\\semester 2\\prog7314\\st10109685prog7312poe\\st10109685prog7312poe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{839D06DB-C2CA-4CED-AE7B-BD0AF4216D0E}|ST10109685Prog7312POE\\ST10109685Prog7312POE.csproj|solutionrelative:st10109685prog7312poe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalEvent.cs",
+              "DocumentMoniker": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\LocalEvent.cs",
+              "RelativeDocumentMoniker": "ST10109685Prog7312POE\\LocalEvent.cs",
+              "ToolTip": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\LocalEvent.cs",
+              "RelativeToolTip": "ST10109685Prog7312POE\\LocalEvent.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:13:42.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\EventManager.cs",
+              "RelativeDocumentMoniker": "ST10109685Prog7312POE\\EventManager.cs",
+              "ToolTip": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\EventManager.cs",
+              "RelativeToolTip": "ST10109685Prog7312POE\\EventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:13:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalEventsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\LocalEventsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ST10109685Prog7312POE\\LocalEventsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\LocalEventsForm.Designer.cs",
+              "RelativeToolTip": "ST10109685Prog7312POE\\LocalEventsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:11:55.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalEventsForm.cs",
+              "DocumentMoniker": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\LocalEventsForm.cs",
+              "RelativeDocumentMoniker": "ST10109685Prog7312POE\\LocalEventsForm.cs",
+              "ToolTip": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\LocalEventsForm.cs",
+              "RelativeToolTip": "ST10109685Prog7312POE\\LocalEventsForm.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAawDoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:11:43.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocalEventsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\LocalEventsForm.cs",
+              "RelativeDocumentMoniker": "ST10109685Prog7312POE\\LocalEventsForm.cs",
+              "ToolTip": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\LocalEventsForm.cs [Design]",
+              "RelativeToolTip": "ST10109685Prog7312POE\\LocalEventsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:11:26.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\Form1.cs",
+              "RelativeDocumentMoniker": "ST10109685Prog7312POE\\Form1.cs",
+              "ToolTip": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\Form1.cs",
+              "RelativeToolTip": "ST10109685Prog7312POE\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:04:30.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ST10109685Prog7312POE\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\Form1.Designer.cs",
+              "RelativeToolTip": "ST10109685Prog7312POE\\Form1.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAYwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:03:46.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\Form1.cs",
+              "RelativeDocumentMoniker": "ST10109685Prog7312POE\\Form1.cs",
+              "ToolTip": "C:\\Users\\nathe\\OneDrive\\Desktop\\3rd Year Content\\3rd year content\\Semester 2\\PROG7314\\ST10109685Prog7312POE\\ST10109685Prog7312POE\\Form1.cs [Design]",
+              "RelativeToolTip": "ST10109685Prog7312POE\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:02:47.323Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
