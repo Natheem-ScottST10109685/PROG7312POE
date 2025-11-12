@@ -78,7 +78,7 @@ namespace ST10109685Prog7312POE
             lblSubtitle.TextAlign = ContentAlignment.MiddleCenter;
             headerPanel.Controls.Add(lblSubtitle);
 
-            // Report Issues Button (Active)
+            // Report Issues Button
             btnReportIssues = new Button();
             btnReportIssues.Text = "Report Issues";
             btnReportIssues.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
@@ -92,7 +92,7 @@ namespace ST10109685Prog7312POE
             btnReportIssues.Click += BtnReportIssues_Click;
             this.Controls.Add(btnReportIssues);
 
-            // Local Events Button (NOW ACTIVE)
+            // Local Events Button
             btnLocalEvents = new Button();
             btnLocalEvents.Text = "Local Events and Announcements";
             btnLocalEvents.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
@@ -107,22 +107,24 @@ namespace ST10109685Prog7312POE
             btnLocalEvents.Click += BtnLocalEvents_Click;
             this.Controls.Add(btnLocalEvents);
 
-            // Service Status Button (Disabled)
+            // Service Status Button
             btnServiceStatus = new Button();
             btnServiceStatus.Text = "Service Request Status";
-            btnServiceStatus.Font = new Font("Segoe UI", 12F);
+            btnServiceStatus.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
             btnServiceStatus.Size = new Size(350, 60);
             btnServiceStatus.Location = new Point(125, 320);
-            btnServiceStatus.BackColor = Color.Gray;
-            btnServiceStatus.ForeColor = Color.LightGray;
+            btnServiceStatus.BackColor = Color.FromArgb(34, 139, 34);
+            btnServiceStatus.ForeColor = Color.White;
             btnServiceStatus.FlatStyle = FlatStyle.Flat;
             btnServiceStatus.FlatAppearance.BorderSize = 0;
-            btnServiceStatus.Enabled = false;
+            btnServiceStatus.Cursor = Cursors.Hand;
+            btnServiceStatus.Enabled = true; 
+            btnServiceStatus.Click += BtnServiceStatus_Click;
             this.Controls.Add(btnServiceStatus);
 
             // Footer Label
             Label lblFooter = new Label();
-            lblFooter.Text = "Coming Soon: Service Status Tracking";
+            lblFooter.Text = "NEW: Track and manage your service requests";
             lblFooter.Font = new Font("Segoe UI", 9F, FontStyle.Italic);
             lblFooter.ForeColor = Color.Gray;
             lblFooter.Location = new Point(125, 400);

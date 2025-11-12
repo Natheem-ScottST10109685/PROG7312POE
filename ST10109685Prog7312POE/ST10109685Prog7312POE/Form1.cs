@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using System.Drawing;
 
 namespace ST10109685Prog7312POE
 {
@@ -18,6 +19,10 @@ namespace ST10109685Prog7312POE
 
             btnLocalEvents.MouseEnter += BtnLocalEvents_MouseEnter;
             btnLocalEvents.MouseLeave += BtnLocalEvents_MouseLeave;
+
+            // Service status hover - NOW ALWAYS ACTIVE
+            btnServiceStatus.MouseEnter += BtnServiceStatus_MouseEnter;
+            btnServiceStatus.MouseLeave += BtnServiceStatus_MouseLeave;
         }
 
         /// <summary>
@@ -26,7 +31,15 @@ namespace ST10109685Prog7312POE
         private void Form1_Load(object sender, EventArgs e)
         {
             // Welcome message on startup
-            lblSubtitle.Text = $"Serving Our Community Better - {DateTime.Now:MMMM yyyy}";
+            int issueCount = IssueManager.GetIssueCount();
+            if (issueCount > 0)
+            {
+                lblSubtitle.Text = $"Serving Our Community Better - {issueCount} issue(s) reported";
+            }
+            else
+            {
+                lblSubtitle.Text = $"Serving Our Community Better - {DateTime.Now:MMMM yyyy}";
+            }
         }
 
         /// <summary>
@@ -82,11 +95,29 @@ namespace ST10109685Prog7312POE
         }
 
         /// <summary>
+        /// Event handler for Service Request Status button click
+        /// </summary>
+        private void BtnServiceStatus_Click(object sender, EventArgs e)
+        {
+            ServiceRequestStatusForm statusForm = new ServiceRequestStatusForm();
+            this.Hide();
+            statusForm.ShowDialog();
+            this.Show();
+
+            // Update subtitle after returning
+            int issueCount = IssueManager.GetIssueCount();
+            if (issueCount > 0)
+            {
+                lblSubtitle.Text = $"Serving Our Community Better - {issueCount} issue(s) reported";
+            }
+        }
+
+        /// <summary>
         /// Mouse enter event for Report Issues button - hover effect
         /// </summary>
         private void BtnReportIssues_MouseEnter(object sender, EventArgs e)
         {
-            btnReportIssues.BackColor = System.Drawing.Color.FromArgb(40, 167, 69);
+            btnReportIssues.BackColor = Color.FromArgb(40, 167, 69);
         }
 
         /// <summary>
@@ -94,7 +125,7 @@ namespace ST10109685Prog7312POE
         /// </summary>
         private void BtnReportIssues_MouseLeave(object sender, EventArgs e)
         {
-            btnReportIssues.BackColor = System.Drawing.Color.FromArgb(34, 139, 34);
+            btnReportIssues.BackColor = Color.FromArgb(34, 139, 34);
         }
 
         /// <summary>
@@ -102,7 +133,7 @@ namespace ST10109685Prog7312POE
         /// </summary>
         private void BtnLocalEvents_MouseEnter(object sender, EventArgs e)
         {
-            btnLocalEvents.BackColor = System.Drawing.Color.FromArgb(40, 167, 69);
+            btnLocalEvents.BackColor = Color.FromArgb(40, 167, 69);
         }
 
         /// <summary>
@@ -110,7 +141,23 @@ namespace ST10109685Prog7312POE
         /// </summary>
         private void BtnLocalEvents_MouseLeave(object sender, EventArgs e)
         {
-            btnLocalEvents.BackColor = System.Drawing.Color.FromArgb(34, 139, 34);
+            btnLocalEvents.BackColor = Color.FromArgb(34, 139, 34);
+        }
+
+        /// <summary>
+        /// Mouse enter event for Service Status button - hover effect
+        /// </summary>
+        private void BtnServiceStatus_MouseEnter(object sender, EventArgs e)
+        {
+            btnServiceStatus.BackColor = Color.FromArgb(40, 167, 69);
+        }
+
+        /// <summary>
+        /// Mouse leave event for Service Status button - reset color
+        /// </summary>
+        private void BtnServiceStatus_MouseLeave(object sender, EventArgs e)
+        {
+            btnServiceStatus.BackColor = Color.FromArgb(34, 139, 34);
         }
     }
 }
